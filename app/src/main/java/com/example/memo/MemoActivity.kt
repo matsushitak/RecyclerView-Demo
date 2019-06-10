@@ -1,12 +1,9 @@
 package com.example.memo
 
 import android.os.Bundle
-import androidx.annotation.VisibleForTesting
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_main.*
-import java.util.*
 
 /**
  * メモ一覧画面
